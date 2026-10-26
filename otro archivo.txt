@@ -1,4 +1,1 @@
-this is a new file
-
-
-let's work on this
+Ignorar archivo. Reservado para descripción adicional.
